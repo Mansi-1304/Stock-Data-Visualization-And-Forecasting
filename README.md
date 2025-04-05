@@ -47,3 +47,9 @@ pip install -r requirements.txt
 streamlit run app.py       # if using Streamlit
 # OR
 python app.py              # if using Dash
+
+## 🖼️ Sign-Up Page
+
+This screen allows new users to register.
+
+![Sign-Up Page] (https://github.com/Mansi-1304/Stock-Data-Visualization-And-Forecasting/blob/main/Signup%20Page.png?raw=true)
